@@ -1,4 +1,4 @@
-FROM almalinux:9
+FROM almalinux:10
 
 LABEL maintainer="mullholland"
 LABEL build_date="2025-07-02"
